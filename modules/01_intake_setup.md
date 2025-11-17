@@ -12,4 +12,3 @@ Collect essential details:
 
 Normalize details (e.g., dates, season) and store them in a simple JSON internally.
 
----
