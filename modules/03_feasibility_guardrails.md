@@ -1,3 +1,6 @@
+change Log (2025-11-17):
+updated weather swap rule to support especially bad weather
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -16,8 +19,8 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 4. **Weather Swap**
    
-   - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
-
+   - If rain or cold season likely → replace at least one outdoor activity with an indoor alternative and include at least one indoor backup option per day in case weather worsens unexpectedly.
+     
 5. **Time Overrun**
    
    - If total planned time > available hours → shorten lunch or pick a nearer stop.
